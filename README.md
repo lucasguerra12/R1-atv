@@ -8,7 +8,27 @@ Este repositório contém uma atividade acadêmica desenvolvida em JavaScript, f
 
 JavaScript
 
-Git
+Node.js (opcional para testes)
+
+📂 Estrutura do Projeto
+
+/atividade-js-objetos
+│-- atv.js  # Arquivo principal com a implementação
+│-- README.md # Documentação do projeto
+
+🔧 Como Executar
+
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+Acesse a pasta do projeto:
+
+cd nome-do-repositorio
+
+Execute o código (se aplicável):
+
+node atv.js
 
 📌 Objetivo da Atividade
 
@@ -20,4 +40,5 @@ Praticar a interação com estruturas de dados.
 
 📝 Observação
 
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos
+Este projeto foi desenvolvido exclusivamente para fins acadêmicos.
+
