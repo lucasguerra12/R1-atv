@@ -20,7 +20,7 @@ Node.js (opcional para testes)
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone (https://github.com/lucasguerra12/R1-atv.git)
 
 Acesse a pasta do projeto:
 
